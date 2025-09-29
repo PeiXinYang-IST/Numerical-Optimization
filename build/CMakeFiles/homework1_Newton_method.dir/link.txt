@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/homework1_Newton_method.dir/src/homework1_Newton_method.cpp.o -o homework1_Newton_method  -lpthread

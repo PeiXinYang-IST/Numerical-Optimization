@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/get_derivative.dir/src/get_derivative.cpp.o -o get_derivative  -lpthread

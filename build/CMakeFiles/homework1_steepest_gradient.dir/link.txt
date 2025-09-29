@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/homework1_steepest_gradient.dir/src/homework1_steepest_gradient.cpp.o -o homework1_steepest_gradient  -lpthread

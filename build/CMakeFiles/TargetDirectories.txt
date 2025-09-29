@@ -1,0 +1,4 @@
+/home/zijin/cpp/build/CMakeFiles/homework1_Newton_method.dir
+/home/zijin/cpp/build/CMakeFiles/homework1_steepest_gradient.dir
+/home/zijin/cpp/build/CMakeFiles/edit_cache.dir
+/home/zijin/cpp/build/CMakeFiles/rebuild_cache.dir

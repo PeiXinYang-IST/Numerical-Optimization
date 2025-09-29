@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/homework1.dir/src/homework1.cpp.o -o homework1  -lpthread
